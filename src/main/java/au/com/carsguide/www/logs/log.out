@@ -1,0 +1,187 @@
+2022-05-18 15:05:772 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-18 16:05:450 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-18 16:05:188 INFO  HomePage :31 - Mouse Hover On Buy And Sell[[ChromeDriver: chrome on WINDOWS (93475621394805a5aa9da5bd1b95b61c)] -> xpath: //a[contains(text(),'buy + sell')]]
+2022-05-18 16:05:217 INFO  HomePage :36 - Click on Search Cars[[ChromeDriver: chrome on WINDOWS (93475621394805a5aa9da5bd1b95b61c)] -> xpath: //a[contains(text(),'Search Cars')]]
+2022-05-18 16:05:363 INFO  NewAndUsedCarSearchPage :44 - Verify message[[ChromeDriver: chrome on WINDOWS (93475621394805a5aa9da5bd1b95b61c)] -> xpath: //h1[contains(text(),'New & Used Car Search - carsguide')]]
+2022-05-18 16:05:509 INFO  NewAndUsedCarSearchPage :48 - Select any Make[[ChromeDriver: chrome on WINDOWS (93475621394805a5aa9da5bd1b95b61c)] -> id: makes]
+2022-05-18 16:05:714 INFO  NewAndUsedCarSearchPage :52 - Select model[[ChromeDriver: chrome on WINDOWS (93475621394805a5aa9da5bd1b95b61c)] -> id: models]
+2022-05-18 16:05:878 INFO  NewAndUsedCarSearchPage :56 - Select address[[ChromeDriver: chrome on WINDOWS (93475621394805a5aa9da5bd1b95b61c)] -> id: locations]
+2022-05-18 16:05:60 INFO  NewAndUsedCarSearchPage :60 - Select price[[ChromeDriver: chrome on WINDOWS (93475621394805a5aa9da5bd1b95b61c)] -> id: priceTo]
+2022-05-18 16:05:227 INFO  NewAndUsedCarSearchPage :64 - Click on find my next car[[ChromeDriver: chrome on WINDOWS (93475621394805a5aa9da5bd1b95b61c)] -> id: search-submit]
+2022-05-18 16:05:175 INFO  NewAndUsedCarSearchPage :68 - Verify message[[ChromeDriver: chrome on WINDOWS (93475621394805a5aa9da5bd1b95b61c)] -> id: uhf-make]
+2022-05-18 16:05:856 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-18 16:05:184 INFO  HomePage :31 - Mouse Hover On Buy And Sell[[ChromeDriver: chrome on WINDOWS (3a32b4bd7453e958400dd807f8643e7f)] -> xpath: //a[contains(text(),'buy + sell')]]
+2022-05-18 16:05:439 INFO  HomePage :36 - Click on Search Cars[[ChromeDriver: chrome on WINDOWS (3a32b4bd7453e958400dd807f8643e7f)] -> xpath: //a[contains(text(),'Search Cars')]]
+2022-05-18 16:05:503 INFO  NewAndUsedCarSearchPage :44 - Verify message[[ChromeDriver: chrome on WINDOWS (3a32b4bd7453e958400dd807f8643e7f)] -> xpath: //h1[contains(text(),'New & Used Car Search - carsguide')]]
+2022-05-18 16:05:576 INFO  NewAndUsedCarSearchPage :48 - Select any Make[[ChromeDriver: chrome on WINDOWS (3a32b4bd7453e958400dd807f8643e7f)] -> id: makes]
+2022-05-18 16:05:695 INFO  NewAndUsedCarSearchPage :52 - Select model[[ChromeDriver: chrome on WINDOWS (3a32b4bd7453e958400dd807f8643e7f)] -> id: models]
+2022-05-18 16:05:912 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-18 16:05:112 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-18 16:05:457 INFO  HomePage :31 - Mouse Hover On Buy And Sell[[ChromeDriver: chrome on WINDOWS (051bdb9616e461c9377816a22e73763f)] -> xpath: //a[contains(text(),'buy + sell')]]
+2022-05-18 16:05:299 INFO  HomePage :36 - Click on Search Cars[[ChromeDriver: chrome on WINDOWS (051bdb9616e461c9377816a22e73763f)] -> xpath: //a[contains(text(),'Search Cars')]]
+2022-05-18 16:05:420 INFO  NewAndUsedCarSearchPage :44 - Verify message[[ChromeDriver: chrome on WINDOWS (051bdb9616e461c9377816a22e73763f)] -> xpath: //h1[contains(text(),'New & Used Car Search - carsguide')]]
+2022-05-18 16:05:481 INFO  NewAndUsedCarSearchPage :48 - Select any Make[[ChromeDriver: chrome on WINDOWS (051bdb9616e461c9377816a22e73763f)] -> id: makes]
+2022-05-18 16:05:641 INFO  NewAndUsedCarSearchPage :52 - Select model[[ChromeDriver: chrome on WINDOWS (051bdb9616e461c9377816a22e73763f)] -> id: models]
+2022-05-18 16:05:55 INFO  NewAndUsedCarSearchPage :56 - Select address[[ChromeDriver: chrome on WINDOWS (051bdb9616e461c9377816a22e73763f)] -> id: locations]
+2022-05-18 16:05:260 INFO  NewAndUsedCarSearchPage :60 - Select price[[ChromeDriver: chrome on WINDOWS (051bdb9616e461c9377816a22e73763f)] -> id: priceTo]
+2022-05-18 16:05:421 INFO  NewAndUsedCarSearchPage :64 - Click on find my next car[[ChromeDriver: chrome on WINDOWS (051bdb9616e461c9377816a22e73763f)] -> id: search-submit]
+2022-05-18 16:05:984 INFO  NewAndUsedCarSearchPage :68 - Verify message[[ChromeDriver: chrome on WINDOWS (051bdb9616e461c9377816a22e73763f)] -> id: uhf-make]
+2022-05-18 16:05:131 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-18 16:05:143 INFO  HomePage :31 - Mouse Hover On Buy And Sell[[ChromeDriver: chrome on WINDOWS (f06ed0b3d39a08635d629e31f4f963de)] -> xpath: //a[contains(text(),'buy + sell')]]
+2022-05-18 16:05:44 INFO  HomePage :36 - Click on Search Cars[[ChromeDriver: chrome on WINDOWS (f06ed0b3d39a08635d629e31f4f963de)] -> xpath: //a[contains(text(),'Search Cars')]]
+2022-05-18 16:05:451 INFO  NewAndUsedCarSearchPage :44 - Verify message[[ChromeDriver: chrome on WINDOWS (f06ed0b3d39a08635d629e31f4f963de)] -> xpath: //h1[contains(text(),'New & Used Car Search - carsguide')]]
+2022-05-18 16:05:547 INFO  NewAndUsedCarSearchPage :48 - Select any Make[[ChromeDriver: chrome on WINDOWS (f06ed0b3d39a08635d629e31f4f963de)] -> id: makes]
+2022-05-18 16:05:912 INFO  NewAndUsedCarSearchPage :52 - Select model[[ChromeDriver: chrome on WINDOWS (f06ed0b3d39a08635d629e31f4f963de)] -> id: models]
+2022-05-18 16:05:137 INFO  NewAndUsedCarSearchPage :56 - Select address[[ChromeDriver: chrome on WINDOWS (f06ed0b3d39a08635d629e31f4f963de)] -> id: locations]
+2022-05-18 16:05:455 INFO  NewAndUsedCarSearchPage :60 - Select price[[ChromeDriver: chrome on WINDOWS (f06ed0b3d39a08635d629e31f4f963de)] -> id: priceTo]
+2022-05-18 16:05:718 INFO  NewAndUsedCarSearchPage :64 - Click on find my next car[[ChromeDriver: chrome on WINDOWS (f06ed0b3d39a08635d629e31f4f963de)] -> id: search-submit]
+2022-05-18 16:05:753 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-18 16:05:681 INFO  HomePage :31 - Mouse Hover On Buy And Sell[[ChromeDriver: chrome on WINDOWS (598912b9dd843d0e50d919f235d94c5d)] -> xpath: //a[contains(text(),'buy + sell')]]
+2022-05-18 16:05:939 INFO  HomePage :36 - Click on Search Cars[[ChromeDriver: chrome on WINDOWS (598912b9dd843d0e50d919f235d94c5d)] -> xpath: //a[contains(text(),'Search Cars')]]
+2022-05-18 16:05:66 INFO  NewAndUsedCarSearchPage :44 - Verify message[[ChromeDriver: chrome on WINDOWS (598912b9dd843d0e50d919f235d94c5d)] -> xpath: //h1[contains(text(),'New & Used Car Search - carsguide')]]
+2022-05-18 16:05:720 INFO  NewAndUsedCarSearchPage :48 - Select any Make[[ChromeDriver: chrome on WINDOWS (598912b9dd843d0e50d919f235d94c5d)] -> id: makes]
+2022-05-18 16:05:97 INFO  NewAndUsedCarSearchPage :52 - Select model[[ChromeDriver: chrome on WINDOWS (598912b9dd843d0e50d919f235d94c5d)] -> id: models]
+2022-05-18 16:05:289 INFO  NewAndUsedCarSearchPage :56 - Select address[[ChromeDriver: chrome on WINDOWS (598912b9dd843d0e50d919f235d94c5d)] -> id: locations]
+2022-05-18 16:05:411 INFO  NewAndUsedCarSearchPage :60 - Select price[[ChromeDriver: chrome on WINDOWS (598912b9dd843d0e50d919f235d94c5d)] -> id: priceTo]
+2022-05-18 16:05:566 INFO  NewAndUsedCarSearchPage :64 - Click on find my next car[[ChromeDriver: chrome on WINDOWS (598912b9dd843d0e50d919f235d94c5d)] -> id: search-submit]
+2022-05-18 16:05:318 INFO  NewAndUsedCarSearchPage :68 - Verify message[[ChromeDriver: chrome on WINDOWS (598912b9dd843d0e50d919f235d94c5d)] -> id: uhf-make]
+2022-05-18 16:05:143 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-18 16:05:10 INFO  HomePage :31 - Mouse Hover On Buy And Sell[[ChromeDriver: chrome on WINDOWS (f1f887c04a24abf2b4c35f1005761230)] -> xpath: //a[contains(text(),'buy + sell')]]
+2022-05-18 16:05:456 INFO  HomePage :36 - Click on Search Cars[[ChromeDriver: chrome on WINDOWS (f1f887c04a24abf2b4c35f1005761230)] -> xpath: //a[contains(text(),'Search Cars')]]
+2022-05-18 16:05:863 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-18 16:05:364 INFO  HomePage :31 - Mouse Hover On Buy And Sell[[ChromeDriver: chrome on WINDOWS (7fdd43e1cbdd44129d6efca01341a570)] -> xpath: //a[contains(text(),'buy + sell')]]
+2022-05-18 16:05:169 INFO  HomePage :36 - Click on Search Cars[[ChromeDriver: chrome on WINDOWS (7fdd43e1cbdd44129d6efca01341a570)] -> xpath: //a[contains(text(),'Search Cars')]]
+2022-05-18 16:05:296 INFO  NewAndUsedCarSearchPage :44 - Verify message[[ChromeDriver: chrome on WINDOWS (7fdd43e1cbdd44129d6efca01341a570)] -> xpath: //h1[contains(text(),'New & Used Car Search - carsguide')]]
+2022-05-18 16:05:389 INFO  NewAndUsedCarSearchPage :48 - Select any Make[[ChromeDriver: chrome on WINDOWS (7fdd43e1cbdd44129d6efca01341a570)] -> id: makes]
+2022-05-18 16:05:687 INFO  NewAndUsedCarSearchPage :52 - Select model[[ChromeDriver: chrome on WINDOWS (7fdd43e1cbdd44129d6efca01341a570)] -> id: models]
+2022-05-18 16:05:244 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-18 16:05:84 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-18 16:05:799 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-18 16:05:281 INFO  HomePage :31 - Mouse Hover On Buy And Sell[[ChromeDriver: chrome on WINDOWS (94d4af366558ed7b8b5e656dfc0c7e0c)] -> xpath: //a[contains(text(),'buy + sell')]]
+2022-05-18 16:05:567 INFO  HomePage :36 - Click on Search Cars[[ChromeDriver: chrome on WINDOWS (94d4af366558ed7b8b5e656dfc0c7e0c)] -> xpath: //a[contains(text(),'Search Cars')]]
+2022-05-18 16:05:769 INFO  NewAndUsedCarSearchPage :44 - Verify message[[ChromeDriver: chrome on WINDOWS (94d4af366558ed7b8b5e656dfc0c7e0c)] -> xpath: //h1[contains(text(),'New & Used Car Search - carsguide')]]
+2022-05-18 16:05:811 INFO  NewAndUsedCarSearchPage :48 - Select any Make[[ChromeDriver: chrome on WINDOWS (94d4af366558ed7b8b5e656dfc0c7e0c)] -> id: makes]
+2022-05-18 16:05:960 INFO  NewAndUsedCarSearchPage :52 - Select model[[ChromeDriver: chrome on WINDOWS (94d4af366558ed7b8b5e656dfc0c7e0c)] -> id: models]
+2022-05-18 16:05:191 INFO  NewAndUsedCarSearchPage :56 - Select address[[ChromeDriver: chrome on WINDOWS (94d4af366558ed7b8b5e656dfc0c7e0c)] -> id: locations]
+2022-05-18 16:05:300 INFO  NewAndUsedCarSearchPage :60 - Select price[[ChromeDriver: chrome on WINDOWS (94d4af366558ed7b8b5e656dfc0c7e0c)] -> id: priceTo]
+2022-05-18 16:05:421 INFO  NewAndUsedCarSearchPage :64 - Click on find my next car[[ChromeDriver: chrome on WINDOWS (94d4af366558ed7b8b5e656dfc0c7e0c)] -> id: search-submit]
+2022-05-18 16:05:43 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-18 16:05:307 INFO  HomePage :31 - Mouse Hover On Buy And Sell[[ChromeDriver: chrome on WINDOWS (45d46c942b40d99bbcd7a1c118487cbe)] -> xpath: //a[contains(text(),'buy + sell')]]
+2022-05-18 16:05:587 INFO  HomePage :36 - Click on Search Cars[[ChromeDriver: chrome on WINDOWS (45d46c942b40d99bbcd7a1c118487cbe)] -> xpath: //a[contains(text(),'Search Cars')]]
+2022-05-18 16:05:22 INFO  NewAndUsedCarSearchPage :44 - Verify message[[ChromeDriver: chrome on WINDOWS (45d46c942b40d99bbcd7a1c118487cbe)] -> xpath: //h1[contains(text(),'New & Used Car Search - carsguide')]]
+2022-05-18 16:05:184 INFO  NewAndUsedCarSearchPage :48 - Select any Make[[ChromeDriver: chrome on WINDOWS (45d46c942b40d99bbcd7a1c118487cbe)] -> id: makes]
+2022-05-18 16:05:350 INFO  NewAndUsedCarSearchPage :52 - Select model[[ChromeDriver: chrome on WINDOWS (45d46c942b40d99bbcd7a1c118487cbe)] -> id: models]
+2022-05-18 16:05:476 INFO  NewAndUsedCarSearchPage :56 - Select address[[ChromeDriver: chrome on WINDOWS (45d46c942b40d99bbcd7a1c118487cbe)] -> id: locations]
+2022-05-18 16:05:612 INFO  NewAndUsedCarSearchPage :60 - Select price[[ChromeDriver: chrome on WINDOWS (45d46c942b40d99bbcd7a1c118487cbe)] -> id: priceTo]
+2022-05-18 16:05:757 INFO  NewAndUsedCarSearchPage :64 - Click on find my next car[[ChromeDriver: chrome on WINDOWS (45d46c942b40d99bbcd7a1c118487cbe)] -> id: search-submit]
+2022-05-18 16:05:321 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-18 16:05:428 INFO  HomePage :31 - Mouse Hover On Buy And Sell[[ChromeDriver: chrome on WINDOWS (c86ee81504923782531aff0d33ce2096)] -> xpath: //a[contains(text(),'buy + sell')]]
+2022-05-18 16:05:837 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-18 16:05:867 INFO  HomePage :31 - Mouse Hover On Buy And Sell[[ChromeDriver: chrome on WINDOWS (3a72a893c1dfd23a738c9c7d75aa3bd8)] -> xpath: //a[contains(text(),'buy + sell')]]
+2022-05-18 16:05:890 INFO  HomePage :36 - Click on Search Cars[[ChromeDriver: chrome on WINDOWS (3a72a893c1dfd23a738c9c7d75aa3bd8)] -> xpath: //a[contains(text(),'Search Cars')]]
+2022-05-18 16:05:987 INFO  NewAndUsedCarSearchPage :44 - Verify message[[ChromeDriver: chrome on WINDOWS (3a72a893c1dfd23a738c9c7d75aa3bd8)] -> xpath: //h1[contains(text(),'New & Used Car Search - carsguide')]]
+2022-05-18 16:05:29 INFO  NewAndUsedCarSearchPage :48 - Select any Make[[ChromeDriver: chrome on WINDOWS (3a72a893c1dfd23a738c9c7d75aa3bd8)] -> id: makes]
+2022-05-18 16:05:323 INFO  NewAndUsedCarSearchPage :52 - Select model[[ChromeDriver: chrome on WINDOWS (3a72a893c1dfd23a738c9c7d75aa3bd8)] -> id: models]
+2022-05-18 16:05:471 INFO  NewAndUsedCarSearchPage :56 - Select address[[ChromeDriver: chrome on WINDOWS (3a72a893c1dfd23a738c9c7d75aa3bd8)] -> id: locations]
+2022-05-18 16:05:590 INFO  NewAndUsedCarSearchPage :60 - Select price[[ChromeDriver: chrome on WINDOWS (3a72a893c1dfd23a738c9c7d75aa3bd8)] -> id: priceTo]
+2022-05-18 16:05:709 INFO  NewAndUsedCarSearchPage :64 - Click on find my next car[[ChromeDriver: chrome on WINDOWS (3a72a893c1dfd23a738c9c7d75aa3bd8)] -> id: search-submit]
+2022-05-18 16:05:937 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-18 16:05:363 INFO  HomePage :31 - Mouse Hover On Buy And Sell[[ChromeDriver: chrome on WINDOWS (c76fe6dc72a69efd863f7c4644b7bd63)] -> xpath: //a[contains(text(),'buy + sell')]]
+2022-05-18 16:05:708 INFO  HomePage :36 - Click on Search Cars[[ChromeDriver: chrome on WINDOWS (c76fe6dc72a69efd863f7c4644b7bd63)] -> xpath: //a[contains(text(),'Search Cars')]]
+2022-05-18 16:05:765 INFO  NewAndUsedCarSearchPage :45 - Verify message[[ChromeDriver: chrome on WINDOWS (c76fe6dc72a69efd863f7c4644b7bd63)] -> xpath: //h1[contains(text(),'New & Used Car Search - carsguide')]]
+2022-05-18 16:05:840 INFO  NewAndUsedCarSearchPage :49 - Select any Make[[ChromeDriver: chrome on WINDOWS (c76fe6dc72a69efd863f7c4644b7bd63)] -> id: makes]
+2022-05-18 16:05:90 INFO  NewAndUsedCarSearchPage :53 - Select model[[ChromeDriver: chrome on WINDOWS (c76fe6dc72a69efd863f7c4644b7bd63)] -> id: models]
+2022-05-18 16:05:369 INFO  NewAndUsedCarSearchPage :58 - Select address[[ChromeDriver: chrome on WINDOWS (c76fe6dc72a69efd863f7c4644b7bd63)] -> id: locations]
+2022-05-18 16:05:523 INFO  NewAndUsedCarSearchPage :62 - Select price[[ChromeDriver: chrome on WINDOWS (c76fe6dc72a69efd863f7c4644b7bd63)] -> id: priceTo]
+2022-05-18 16:05:717 INFO  NewAndUsedCarSearchPage :66 - Click on find my next car[[ChromeDriver: chrome on WINDOWS (c76fe6dc72a69efd863f7c4644b7bd63)] -> id: search-submit]
+2022-05-18 16:05:363 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-18 16:05:917 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-18 16:05:695 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-18 16:05:519 INFO  HomePage :31 - Mouse Hover On Buy And Sell[[ChromeDriver: chrome on WINDOWS (c751a151cc4d145fcc6ff371021c9455)] -> xpath: //a[contains(text(),'buy + sell')]]
+2022-05-18 16:05:844 INFO  HomePage :36 - Click on Search Cars[[ChromeDriver: chrome on WINDOWS (c751a151cc4d145fcc6ff371021c9455)] -> xpath: //a[contains(text(),'Search Cars')]]
+2022-05-18 16:05:603 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-18 16:05:123 INFO  HomePage :31 - Mouse Hover On Buy And Sell[[ChromeDriver: chrome on WINDOWS (f665d6ac33c5b2937d88a24707367c07)] -> xpath: //a[contains(text(),'buy + sell')]]
+2022-05-18 16:05:486 INFO  HomePage :36 - Click on Search Cars[[ChromeDriver: chrome on WINDOWS (f665d6ac33c5b2937d88a24707367c07)] -> xpath: //a[contains(text(),'Search Cars')]]
+2022-05-18 16:05:758 INFO  NewAndUsedCarSearchPage :45 - Verify message[[ChromeDriver: chrome on WINDOWS (f665d6ac33c5b2937d88a24707367c07)] -> xpath: //h1[contains(text(),'New & Used Car Search - carsguide')]]
+2022-05-18 16:05:811 INFO  NewAndUsedCarSearchPage :49 - Select any Make[[ChromeDriver: chrome on WINDOWS (f665d6ac33c5b2937d88a24707367c07)] -> id: makes]
+2022-05-18 16:05:03 INFO  NewAndUsedCarSearchPage :53 - Select model[[ChromeDriver: chrome on WINDOWS (f665d6ac33c5b2937d88a24707367c07)] -> id: models]
+2022-05-18 16:05:499 INFO  NewAndUsedCarSearchPage :58 - Select address[[ChromeDriver: chrome on WINDOWS (f665d6ac33c5b2937d88a24707367c07)] -> id: locations]
+2022-05-18 16:05:662 INFO  NewAndUsedCarSearchPage :62 - Select price[[ChromeDriver: chrome on WINDOWS (f665d6ac33c5b2937d88a24707367c07)] -> id: priceTo]
+2022-05-18 16:05:856 INFO  NewAndUsedCarSearchPage :66 - Click on find my next car[[ChromeDriver: chrome on WINDOWS (f665d6ac33c5b2937d88a24707367c07)] -> id: search-submit]
+2022-05-18 16:05:598 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-18 16:05:734 INFO  HomePage :31 - Mouse Hover On Buy And Sell[[ChromeDriver: chrome on WINDOWS (0a81fd28f62514e85c1aff60a0c83fcf)] -> xpath: //a[contains(text(),'buy + sell')]]
+2022-05-18 16:05:62 INFO  HomePage :36 - Click on Search Cars[[ChromeDriver: chrome on WINDOWS (0a81fd28f62514e85c1aff60a0c83fcf)] -> xpath: //a[contains(text(),'Search Cars')]]
+2022-05-18 16:05:106 INFO  NewAndUsedCarSearchPage :45 - Verify message[[ChromeDriver: chrome on WINDOWS (0a81fd28f62514e85c1aff60a0c83fcf)] -> xpath: //h1[contains(text(),'New & Used Car Search - carsguide')]]
+2022-05-18 16:05:199 INFO  NewAndUsedCarSearchPage :49 - Select any Make[[ChromeDriver: chrome on WINDOWS (0a81fd28f62514e85c1aff60a0c83fcf)] -> id: makes]
+2022-05-18 16:05:395 INFO  NewAndUsedCarSearchPage :53 - Select model[[ChromeDriver: chrome on WINDOWS (0a81fd28f62514e85c1aff60a0c83fcf)] -> id: models]
+2022-05-18 16:05:579 INFO  NewAndUsedCarSearchPage :58 - Select address[[ChromeDriver: chrome on WINDOWS (0a81fd28f62514e85c1aff60a0c83fcf)] -> id: locations]
+2022-05-18 16:05:769 INFO  NewAndUsedCarSearchPage :62 - Select price[[ChromeDriver: chrome on WINDOWS (0a81fd28f62514e85c1aff60a0c83fcf)] -> id: priceTo]
+2022-05-18 16:05:976 INFO  NewAndUsedCarSearchPage :66 - Click on find my next car[[ChromeDriver: chrome on WINDOWS (0a81fd28f62514e85c1aff60a0c83fcf)] -> id: search-submit]
+2022-05-18 16:05:907 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-18 16:05:662 INFO  HomePage :31 - Mouse Hover On Buy And Sell[[ChromeDriver: chrome on WINDOWS (3421964a219204c2409f611111985738)] -> xpath: //a[contains(text(),'buy + sell')]]
+2022-05-18 16:05:986 INFO  HomePage :36 - Click on Search Cars[[ChromeDriver: chrome on WINDOWS (3421964a219204c2409f611111985738)] -> xpath: //a[contains(text(),'Search Cars')]]
+2022-05-18 16:05:799 INFO  NewAndUsedCarSearchPage :45 - Verify message[[ChromeDriver: chrome on WINDOWS (3421964a219204c2409f611111985738)] -> xpath: //h1[contains(text(),'New & Used Car Search - carsguide')]]
+2022-05-18 16:05:398 INFO  NewAndUsedCarSearchPage :49 - Select any Make[[ChromeDriver: chrome on WINDOWS (3421964a219204c2409f611111985738)] -> id: makes]
+2022-05-18 16:05:676 INFO  NewAndUsedCarSearchPage :53 - Select model[[ChromeDriver: chrome on WINDOWS (3421964a219204c2409f611111985738)] -> id: models]
+2022-05-18 16:05:987 INFO  NewAndUsedCarSearchPage :58 - Select address[[ChromeDriver: chrome on WINDOWS (3421964a219204c2409f611111985738)] -> id: locations]
+2022-05-18 16:05:147 INFO  NewAndUsedCarSearchPage :62 - Select price[[ChromeDriver: chrome on WINDOWS (3421964a219204c2409f611111985738)] -> id: priceTo]
+2022-05-18 16:05:305 INFO  NewAndUsedCarSearchPage :66 - Click on find my next car[[ChromeDriver: chrome on WINDOWS (3421964a219204c2409f611111985738)] -> id: search-submit]
+2022-05-18 16:05:265 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-18 16:05:295 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-18 16:05:177 INFO  HomePage :31 - Mouse Hover On Buy And Sell[[ChromeDriver: chrome on WINDOWS (00e14decbf5e0c6644abc67e2b5d0b87)] -> xpath: //a[contains(text(),'buy + sell')]]
+2022-05-18 16:05:647 INFO  HomePage :36 - Click on Search Cars[[ChromeDriver: chrome on WINDOWS (00e14decbf5e0c6644abc67e2b5d0b87)] -> xpath: //a[contains(text(),'Search Cars')]]
+2022-05-18 16:05:162 INFO  NewAndUsedCarSearchPage :45 - Verify message[[ChromeDriver: chrome on WINDOWS (00e14decbf5e0c6644abc67e2b5d0b87)] -> xpath: //h1[contains(text(),'New & Used Car Search - carsguide')]]
+2022-05-18 16:05:472 INFO  NewAndUsedCarSearchPage :49 - Select any Make[[ChromeDriver: chrome on WINDOWS (00e14decbf5e0c6644abc67e2b5d0b87)] -> id: makes]
+2022-05-18 16:05:623 INFO  NewAndUsedCarSearchPage :53 - Select model[[ChromeDriver: chrome on WINDOWS (00e14decbf5e0c6644abc67e2b5d0b87)] -> id: models]
+2022-05-18 16:05:899 INFO  NewAndUsedCarSearchPage :58 - Select address[[ChromeDriver: chrome on WINDOWS (00e14decbf5e0c6644abc67e2b5d0b87)] -> id: locations]
+2022-05-18 16:05:56 INFO  NewAndUsedCarSearchPage :62 - Select price[[ChromeDriver: chrome on WINDOWS (00e14decbf5e0c6644abc67e2b5d0b87)] -> id: priceTo]
+2022-05-18 16:05:219 INFO  NewAndUsedCarSearchPage :66 - Click on find my next car[[ChromeDriver: chrome on WINDOWS (00e14decbf5e0c6644abc67e2b5d0b87)] -> id: search-submit]
+2022-05-18 16:05:971 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-18 16:05:97 INFO  HomePage :31 - Mouse Hover On Buy And Sell[[ChromeDriver: chrome on WINDOWS (b21517e8a8ffd5302777ab831ebe5cb1)] -> xpath: //a[contains(text(),'buy + sell')]]
+2022-05-18 16:05:409 INFO  HomePage :36 - Click on Search Cars[[ChromeDriver: chrome on WINDOWS (b21517e8a8ffd5302777ab831ebe5cb1)] -> xpath: //a[contains(text(),'Search Cars')]]
+2022-05-18 16:05:72 INFO  NewAndUsedCarSearchPage :45 - Verify message[[ChromeDriver: chrome on WINDOWS (b21517e8a8ffd5302777ab831ebe5cb1)] -> xpath: //h1[contains(text(),'New & Used Car Search - carsguide')]]
+2022-05-18 16:05:659 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-18 16:05:861 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-19 12:05:148 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-19 12:05:966 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-19 12:05:830 INFO  HomePage :31 - Mouse Hover On Buy And Sell[[ChromeDriver: chrome on WINDOWS (84cd2c7e0c04551f8ce6ddbc52e92e70)] -> xpath: //a[contains(text(),'buy + sell')]]
+2022-05-19 12:05:224 INFO  HomePage :36 - Click on Search Cars[[ChromeDriver: chrome on WINDOWS (84cd2c7e0c04551f8ce6ddbc52e92e70)] -> xpath: //a[contains(text(),'Search Cars')]]
+2022-05-19 12:05:514 INFO  NewAndUsedCarSearchPage :45 - Verify message[[ChromeDriver: chrome on WINDOWS (84cd2c7e0c04551f8ce6ddbc52e92e70)] -> xpath: //h1[contains(text(),'New & Used Car Search - carsguide')]]
+2022-05-19 12:05:583 INFO  NewAndUsedCarSearchPage :49 - Select any Make[[ChromeDriver: chrome on WINDOWS (84cd2c7e0c04551f8ce6ddbc52e92e70)] -> id: makes]
+2022-05-19 12:05:693 INFO  NewAndUsedCarSearchPage :53 - Select model[[ChromeDriver: chrome on WINDOWS (84cd2c7e0c04551f8ce6ddbc52e92e70)] -> id: models]
+2022-05-19 14:05:08 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-19 14:05:164 INFO  HomePage :30 - Mouse Hover On Buy And Sell[[ChromeDriver: chrome on WINDOWS (4af5f13d9dc6186271df3c8caaad946e)] -> xpath: //a[contains(text(),'buy + sell')]]
+2022-05-19 14:05:603 INFO  HomePage :36 - Click on Search Cars[[ChromeDriver: chrome on WINDOWS (4af5f13d9dc6186271df3c8caaad946e)] -> xpath: //a[contains(text(),'Search Cars')]]
+2022-05-19 14:05:131 INFO  NewAndUsedCarSearchPage :45 - Verify message[[ChromeDriver: chrome on WINDOWS (4af5f13d9dc6186271df3c8caaad946e)] -> xpath: //h1[contains(text(),'New & Used Car Search - carsguide')]]
+2022-05-19 14:05:802 INFO  NewAndUsedCarSearchPage :49 - Select any Make[[ChromeDriver: chrome on WINDOWS (4af5f13d9dc6186271df3c8caaad946e)] -> id: makes]
+2022-05-19 14:05:314 INFO  NewAndUsedCarSearchPage :53 - Select model[[ChromeDriver: chrome on WINDOWS (4af5f13d9dc6186271df3c8caaad946e)] -> id: models]
+2022-05-19 14:05:570 INFO  NewAndUsedCarSearchPage :58 - Select address[[ChromeDriver: chrome on WINDOWS (4af5f13d9dc6186271df3c8caaad946e)] -> id: locations]
+2022-05-19 14:05:773 INFO  NewAndUsedCarSearchPage :62 - Select price[[ChromeDriver: chrome on WINDOWS (4af5f13d9dc6186271df3c8caaad946e)] -> id: priceTo]
+2022-05-19 14:05:969 INFO  NewAndUsedCarSearchPage :66 - Click on find my next car[[ChromeDriver: chrome on WINDOWS (4af5f13d9dc6186271df3c8caaad946e)] -> id: search-submit]
+2022-05-20 01:05:846 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-20 01:05:992 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-20 01:05:874 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-20 01:05:52 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-20 01:05:850 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-20 01:05:745 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-20 01:05:489 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-20 01:05:656 INFO  HomePage :36 - Mouse Hover On Buy And Sell[[ChromeDriver: chrome on WINDOWS (9a69372930e58de872e885297ce999e9)] -> xpath: //a[contains(text(),'buy + sell')]]
+2022-05-20 01:05:151 INFO  HomePage :46 - Click on used option[[ChromeDriver: chrome on WINDOWS (9a69372930e58de872e885297ce999e9)] -> xpath: //header/div[@id='u_H']/div[1]/div[1]/ul[1]/li[1]/div[1]/div[1]/div[1]/ul[1]/li[2]/a[1]]
+2022-05-20 01:05:93 INFO  NewAndUsedCarSearchPage :68 - Verify text[[ChromeDriver: chrome on WINDOWS (9a69372930e58de872e885297ce999e9)] -> xpath: //h1[contains(text(),'Used Cars For Sale')]]
+2022-05-20 01:05:767 INFO  NewAndUsedCarSearchPage :47 - Select any Make[[ChromeDriver: chrome on WINDOWS (9a69372930e58de872e885297ce999e9)] -> id: makes]
+2022-05-20 01:05:25 INFO  NewAndUsedCarSearchPage :51 - Select model[[ChromeDriver: chrome on WINDOWS (9a69372930e58de872e885297ce999e9)] -> id: models]
+2022-05-20 01:05:417 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-20 01:05:313 INFO  HomePage :36 - Mouse Hover On Buy And Sell[[ChromeDriver: chrome on WINDOWS (7fadd9a425e9858a34bc126a207dc154)] -> xpath: //a[contains(text(),'buy + sell')]]
+2022-05-20 01:05:740 INFO  HomePage :46 - Click on used option[[ChromeDriver: chrome on WINDOWS (7fadd9a425e9858a34bc126a207dc154)] -> xpath: //header/div[@id='u_H']/div[1]/div[1]/ul[1]/li[1]/div[1]/div[1]/div[1]/ul[1]/li[2]/a[1]]
+2022-05-20 01:05:21 INFO  NewAndUsedCarSearchPage :68 - Verify text[[ChromeDriver: chrome on WINDOWS (7fadd9a425e9858a34bc126a207dc154)] -> xpath: //h1[contains(text(),'Used Cars For Sale')]]
+2022-05-20 01:05:848 INFO  NewAndUsedCarSearchPage :47 - Select any Make[[ChromeDriver: chrome on WINDOWS (7fadd9a425e9858a34bc126a207dc154)] -> id: makes]
+2022-05-20 01:05:233 INFO  NewAndUsedCarSearchPage :51 - Select model[[ChromeDriver: chrome on WINDOWS (7fadd9a425e9858a34bc126a207dc154)] -> id: models]
+2022-05-20 01:05:385 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-20 01:05:213 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-20 01:05:93 INFO  HomePage :36 - Mouse Hover On Buy And Sell[[ChromeDriver: chrome on WINDOWS (ea8a59ad69122dc880a0efef4961f3f9)] -> xpath: //a[contains(text(),'buy + sell')]]
+2022-05-20 01:05:459 INFO  HomePage :46 - Click on used option[[ChromeDriver: chrome on WINDOWS (ea8a59ad69122dc880a0efef4961f3f9)] -> xpath: //header/div[@id='u_H']/div[1]/div[1]/ul[1]/li[1]/div[1]/div[1]/div[1]/ul[1]/li[2]/a[1]]
+2022-05-20 01:05:984 INFO  NewAndUsedCarSearchPage :68 - Verify text[[ChromeDriver: chrome on WINDOWS (ea8a59ad69122dc880a0efef4961f3f9)] -> xpath: //h1[contains(text(),'Used Cars For Sale')]]
+2022-05-20 01:05:267 INFO  NewAndUsedCarSearchPage :47 - Select any Make[[ChromeDriver: chrome on WINDOWS (ea8a59ad69122dc880a0efef4961f3f9)] -> id: makes]
+2022-05-20 01:05:457 INFO  NewAndUsedCarSearchPage :51 - Select model[[ChromeDriver: chrome on WINDOWS (ea8a59ad69122dc880a0efef4961f3f9)] -> id: models]
+2022-05-20 01:05:616 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-20 01:05:546 INFO  ManageDriver :29 - Launching Chrome Browser
